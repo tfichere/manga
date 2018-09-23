@@ -1,0 +1,33 @@
+body
+{
+	float: center;
+	color: white;
+	background: url("cobra1.jpg") fixed;
+  	width:750px;
+	height:300px;
+	
+	
+}
+}
+mark
+{
+	color: white;
+	width: 250px;
+	height: 200px;
+}
+h1
+{	
+	text-align: center;
+}
+	
+p
+{
+	text-align: left
+}
+.signature
+
+{
+
+    text-align: center;
+
+}
